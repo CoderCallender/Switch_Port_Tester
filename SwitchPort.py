@@ -14,12 +14,13 @@ while i < 100:
     sleep(0.1)
     i += 1
 
-print ("Test Switch 1...")
+print ("Test Switch 2...")
+i = 0
 
 while i < 100:
-    SwitchOne.on()
+    SwitchTwo.on()
     sleep(0.1)
-    SwitchOne.off()
+    SwitchTwo.off()
     sleep(0.1)
     i += 1
 
