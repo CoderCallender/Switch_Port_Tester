@@ -7,7 +7,7 @@ i = 0
 
 while i < 10:
     SwitchOne.on()
-    sleep(0.5)
+    sleep(0.1)
     SwitchOne.off()
-    sleep(0.5)
+    sleep(0.1)
     i += 1
