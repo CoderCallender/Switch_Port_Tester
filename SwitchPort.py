@@ -5,7 +5,7 @@ SwitchOne = LED(4)
 SwitchTwo = LED(14)
 i = 0
 
-while i < 10:
+while i < 100:
     SwitchOne.on()
     sleep(0.1)
     SwitchOne.off()
