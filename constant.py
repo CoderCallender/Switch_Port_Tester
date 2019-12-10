@@ -7,7 +7,7 @@ i = 0
 
 print ("Starting...")
 
-while true:
+while True:
     SwitchOne.on()
     SwitchTwo.on()
     sleep(0.1)
